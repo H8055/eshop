@@ -1,0 +1,7 @@
+.title {
+  position: absolute;
+  top: 5rem;
+  left: 10rem;
+  font-size: 13rem;
+  color: rgba(255, 255, 255, 0.68);
+}
